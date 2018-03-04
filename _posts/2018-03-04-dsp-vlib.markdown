@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "【DSP开发】DSP VLIB实验"
-subtitle:     ""
+subtitle:     "DSP VLIB实验细节记录"
 date:         2018-04-04 19:17:00
 author:       "ZhangPY"
 header-img:   "img/IMG_6401.jpg"
