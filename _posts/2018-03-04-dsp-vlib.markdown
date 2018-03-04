@@ -2,7 +2,7 @@
 layout:       post
 title:        "【DSP开发】DSP VLIB实验"
 subtitle:     "DSP VLIB实验细节记录"
-date:         2018-04-04 19:17:00
+date:         2015-09-23 09:41:00
 author:       "ZhangPY"
 header-img:   "img/IMG_6401.jpg"
 header-mask:  0.3
@@ -10,7 +10,10 @@ catalog:      true
 multilingual: true
 tags:
     - DSP开发
+	
+---
 
+# 【DSP开发】DSP VLIB实验
 
 ----------
 
