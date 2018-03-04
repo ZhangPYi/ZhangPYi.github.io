@@ -4,7 +4,7 @@ title:        "【阅读笔记】【哲学思考】对迟到现象的哲学思�
 subtitle:     "由迟到现象引发的哲学思考"
 date:         2018-03-03 12:00:00
 author:       "ZhangPY"
-header-img:   "img/in-post/philosophy/IMG_6401.jpg"
+header-img:   "img/IMG_6401.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true
