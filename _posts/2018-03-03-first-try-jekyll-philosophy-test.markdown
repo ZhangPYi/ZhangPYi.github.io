@@ -1,21 +1,20 @@
 ---
 layout:       post
-title:        "【DSP开发】DSP VLIB实验"
-subtitle:     "DSP VLIB实验细节记录"
-date:         2015-09-23 09:41:00
+title:        "【阅读笔记】【哲学思考】对迟到现象的哲学思考"
+subtitle:     "由迟到现象引发的哲学思考"
+date:         2018-07-12 12:00:00
 author:       "ZhangPY"
 header-img:   "img/post-bg-os-metro.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true
 tags:
-    - DSP开发
-
+    - 哲学小思
 ---
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-    {% capture about_zh %}{% include posts/2018-03-05/dsp-vlib.md %}{% endcapture %}
+    {% capture about_zh %}{% include posts/2018-03-05/zh.md %}{% endcapture %}
     {{ about_zh | markdownify }}
 </div>
 
