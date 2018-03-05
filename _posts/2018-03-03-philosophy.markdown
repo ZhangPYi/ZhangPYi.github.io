@@ -2,7 +2,7 @@
 layout:       post
 title:        "【阅读笔记】【哲学思考】对迟到现象的哲学思考"
 subtitle:     "由迟到现象引发的哲学思考"
-date:         2018-07-12 12:00:00
+date:         2018-03-3 12:00:00
 author:       "ZhangPY"
 header-img:   "img/post-bg-os-metro.jpg"
 header-mask:  0.3
