@@ -88,7 +88,7 @@
 
 
 
-**Hey，我是张朋艺，ZhangPY，起初耕耘在[别人家的博客](http://blog.csdn.net/lg1259156776)，后来决定自己搞起来[博客](https://zhangpy.club)、[微博](weibo.com/iamhuty)、[知乎](https://www.zhihu.com/people/ZhangPYi)、[Twitter](https://twitter.com/ZhangPYi/)、[Github](http://github.com/ZhangPYi)等地带，欢迎来采~~~。**
+**Hey，我是张朋艺，ZhangPY，起初耕耘在[别人家的博客](http://blog.csdn.net/lg1259156776)，后来决定自己搞起来，活跃在[博客](https://zhangpy.club)、[微博](weibo.com/iamhuty)、[知乎](https://www.zhihu.com/people/ZhangPYi)、[Twitter](https://twitter.com/ZhangPYi/)、[Github](http://github.com/ZhangPYi)等地带，欢迎来采~~~。**
  
 -------
 
@@ -103,3 +103,5 @@
 **座右铭：不骄不躁，不屈不挠；严于律己，宽以待人。**
 
 -------
+
+
