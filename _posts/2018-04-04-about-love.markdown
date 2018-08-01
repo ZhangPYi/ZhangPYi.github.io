@@ -4,7 +4,7 @@ title:        "【爱情宣言日记】2018-04-04 第四天"
 subtitle:     "爱情宣言日记"
 date:         2018-04-04 23:51:00
 author:       "ZhangPY"
-header-img:   "img/post-bg-os-metro.jpg"
+header-img:   "img/love/IMG_1634.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true
